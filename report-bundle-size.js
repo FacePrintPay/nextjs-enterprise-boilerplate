@@ -131,3 +131,5 @@ function getOptions(pathPrefix = process.cwd()) {
 function getBuildOutputDirectory(options) {
   return options.buildOutputDirectory || ".next"
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=report-bundle-size.js
